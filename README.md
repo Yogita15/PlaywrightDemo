@@ -7,6 +7,12 @@ npm (comes with Node.js)
 Clone above repository :
 git clone https://github.com/Yogita15/PlaywrightDemo.git
 
+Install dependencies:
+npm install
+
+Install Playwright browsers:
+npx playwright install
+
 To execute test :
 npx playwright test filename
 
