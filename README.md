@@ -8,4 +8,4 @@ Install playwright using below command :
 npm install
 
 To execute test :
-npx playwright ./test/filename
+npx playwright test filename
