@@ -1,11 +1,11 @@
 Pre-condition :
 Node 14+ above should be installed
 
-Clone above repository
-git clone 
+Clone above repository :
+git clone https://github.com/Yogita15/PlaywrightDemo.git
 
-Execute below command
+Execute below command :
 npm install
 
-To execute test
+To execute test :
 npx playwright ./test/filename
