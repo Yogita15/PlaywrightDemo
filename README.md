@@ -8,3 +8,6 @@ git clone https://github.com/Yogita15/PlaywrightDemo.git
 
 To execute test :
 npx playwright test filename
+
+After test execution, generate and view the HTML report :
+npx playwright show-report
