@@ -3,10 +3,10 @@ This project contains automated tests built using Playwright with JavaScript. It
 
 
 **Key Features**  
-Automated UI testing of web components including alerts, iframes, keyboard events, and mouse interactions.
-Implemented the Page Object Model (POM) to enhance test structure, reusability, and maintainability.
-Cross-browser test execution on Chromium, Firefox, and WebKit.
-Generated HTML test reports using Playwright’s built-in reporting capabilities.
+Automated UI testing of web components including alerts, iframes, keyboard events, and mouse interactions.  
+Implemented the Page Object Model (POM) to enhance test structure, reusability, and maintainability.  
+Cross-browser test execution on Chromium, Firefox, and WebKit.  
+Generated HTML test reports using Playwright’s built-in reporting capabilities.  
 Version-controlled test scripts managed using GitHub.
 
 
