@@ -11,8 +11,8 @@ Version-controlled test scripts managed using GitHub.
 
 
 **Pre-requisites**  
-Before running the tests, ensure the following are installed :
-Node.js (v16 or higher),
+Before running the tests, ensure the following are installed :  
+Node.js (v16 or higher)  
 npm (comes with Node.js)
 
 
