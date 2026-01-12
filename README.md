@@ -1,5 +1,4 @@
-**PlaywrightDemo**
-
+**PlaywrightDemo**  
 This project contains automated tests built using Playwright with JavaScript. It is designed to test web applications across multiple browsers with fast, reliable, and modern testing practices.
 
 
